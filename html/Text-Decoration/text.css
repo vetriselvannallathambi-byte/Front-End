@@ -1,0 +1,13 @@
+section{
+    text-align: center;
+    color:chocolate;
+    direction: ltr;
+    letter-spacing: 20px;
+    word-spacing: 1cm;
+    white-space:inherit;
+    text-decoration: overline  dotted  5px blue;
+    /* text-decoration-style:dotted ; */
+    text-transform: lowercase;
+    line-height: 2cm;
+
+}
