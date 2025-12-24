@@ -1,0 +1,12 @@
+section{
+    height: 500px;
+    width:500px;
+    border-width: 10px;
+    border-color:blueviolet;
+    border-style: dotted;
+    border-radius: 10px;
+    font-family: "Teko", sans-serif;
+    font-size: 30px;
+    
+    
+} 
